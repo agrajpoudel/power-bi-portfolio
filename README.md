@@ -6,4 +6,4 @@
 
 This repo has some of the REPORTS and SPECIAL VISUALIZATIONS that I created using different data sources for clients as part of the demo or while learning.
 
-The folder "DAX and Each Chart Designing Process" tries to explain the DAX that I used to create each visualisation along with some special visualizations that I learned along the way.
+The folder "DAX and Each Chart Designing Process" tries to explain the DAX that I used to create each visualisation along with some special visualizations that I learned along the way. Especially by following "How to Power BI" videos.
